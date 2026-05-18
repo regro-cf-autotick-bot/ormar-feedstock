@@ -27,6 +27,7 @@ requirements:
     - python >=${{ python_min }}
     - pydantic >=2.11.9,<3.0.0
     - sqlalchemy >=2.0.40,<3.0.0
+    - ormar-utils >=0.1.1
     # from sqlalchemy[ayncio]
     - greenlet >=1
 
